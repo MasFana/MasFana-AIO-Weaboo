@@ -1,10 +1,15 @@
+<table>
+<tr>
+<td><img src="assets/icon.png" alt="App Logo" style="width: 500px;"/></td>
+<td>
+
 # AIO Weaboo
 
-![App Logo](assets/icon.png)
-
-## Overview
-
 **AIO Weaboo** is an Android application that allows users to effortlessly search for their favorite anime series and explore detailed information about them. Additionally, users can read their favorite manhwa directly within the app, providing a seamless experience for anime and manhwa enthusiasts.
+
+</td>
+</tr>
+</table>
 
 ## Features
 
