@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td><img src="assets/icon.png" alt="App Logo" style="width: 500px;"/></td>
+<td><img src="assets/icon.png" alt="App Logo" style="width: 600px;"/></td>
 <td>
 
 # AIO Weaboo
