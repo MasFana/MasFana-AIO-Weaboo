@@ -1,16 +1,30 @@
-# myapp
+# AIO Weaboo
 
-A new Flutter project.
+![App Logo](assets/icon.png)
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+**AIO Weaboo** is an Android application that allows users to effortlessly search for their favorite anime series and explore detailed information about them. Additionally, users can read their favorite manhwa directly within the app, providing a seamless experience for anime and manhwa enthusiasts.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Anime Search**: Quickly search for any anime series and access detailed information such as plot summaries, genres, episode counts, and more.
+- **Manhwa Reader**: Enjoy reading manhwa with an easy-to-use reader interface, allowing users to swipe through chapters smoothly.
+- **User-Friendly Interface**: Intuitive design for easy navigation and a pleasant user experience.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+1. Download the APK file from the [releases](https://github.com/MasFana/MasFana-AIO-Weaboo/releases) section.
+2. Enable installation from unknown sources on your Android device.
+3. Open the downloaded APK file and follow the installation prompts.
+
+## Usage
+
+1. Open **AIO Weaboo** after installation.
+2. Use the search bar to find your favorite anime or manhwa.
+3. Tap on a result to view detailed information or read the manhwa.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
