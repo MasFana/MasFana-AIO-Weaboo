@@ -13,7 +13,7 @@
 
 ## Features
 
-- **Anime Search**: Quickly search for any anime series and access detailed information such as plot summaries, genres, episode counts, and more.
+- **Anime Search**: Quickly search for any anime series and access detailed information such as plot summaries, genres, episode counts, and more. `(Still in Development)`
 - **Manhwa Reader**: Enjoy reading manhwa with an easy-to-use reader interface, allowing users to swipe through chapters smoothly.
 - **User-Friendly Interface**: Intuitive design for easy navigation and a pleasant user experience.
 
